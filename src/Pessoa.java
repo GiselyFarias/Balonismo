@@ -47,34 +47,43 @@ public class Pessoa {
     }
 
     public void setNome (String nome){
+
         this.nome = nome;
     }
 
     public String getNome(){
+
+
         return nome;
     }
 
     public void setSobrenome (String sobrenome){
+
         this.sobrenome = sobrenome;
     }
 
     public String getSobrenome(){
+
         return sobrenome;
     }
 
     public void setGenero (String genero){
+
         this.genero = genero;
     }
 
     public String GetGenero (){
+
         return genero;
     }
 
     public void setPeso (double peso){
+
         this.peso = peso;
     }
 
     public double getPeso (){
+
         return peso;
     }
 
@@ -83,14 +92,17 @@ public class Pessoa {
     }
 
     public double getAltura (){
+
         return altura;
     }
 
     public void setIdade (int idade){
+
         this.idade = idade;
     }
 
     public int setIdade (){
+
         return idade;
     }
 
